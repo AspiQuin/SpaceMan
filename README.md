@@ -1,2 +1,2 @@
-# SpaceMan
- IMD3005_FinalProject
+# SpaceHangMan_GitHub
+ IMD3005 Final Project
